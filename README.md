@@ -11,5 +11,5 @@ A Software developer from Serbia.
 
 
 ![Marko's github stats](https://github-readme-stats.vercel.app/api?username=pajserb0y&theme=tokyonight&show_icons=true&hide=["issues"])
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pajserb0y&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pajserb0y&theme=tokyonight&layout=compact&hide=c%23,java,html,css)
 <p align="center">
